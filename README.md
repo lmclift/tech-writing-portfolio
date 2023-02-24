@@ -1,2 +1,1 @@
-# tech-writing-portfolio
-Technical Writing Portfolio
+# Technical Writing Portfolio
