@@ -3,7 +3,7 @@
 The customer needed documentation outlining the process of how a Desk Level Procedure (DLP) was developed and moved through the review, approval, and publication process. This document would be used as a quick reference for new technical writers, business analysts, and other internal stakeholders who were not familiar with the DLP development process.
 ## DLP Development Quick Reference Guide
 ### When a New Request is Submitted in Jira
-1. Nagigate to the Project.
+1. Navigate to the Project.
 2. Assign the request to yourself using the **Assign** button.
 3. Move to **In Business Requirements** when starting the research process.
 ### Working on the DLP
@@ -28,7 +28,7 @@ The customer needed documentation outlining the process of how a Desk Level Proc
 1. Move the Jira request to In QA Testing status.
 2. Finish the DLP file:
     1. Add date to the updated/new DLP in the **_Test Area** folder.
-    2. If the DLP is a revision, back up the current DLP in **Back-Ups** folder.
+    2. If the DLP is a revision, back up the current DLP in **Back-Ups** folder.  
     **Note:** Create folders to mirror how the DLP is stored on the drive (ex. C:\Back-Ups\2022\0905\CallCtr\groups)
     3. Copy updated DLP from **_Test Area** into production folder (ex: CallCtr\groups)
     4. Copy any images or external files into appropriate folders (images, external, etc.)
@@ -43,5 +43,5 @@ The customer needed documentation outlining the process of how a Desk Level Proc
     1. T-shirt size
     2. Select the request type (New DLP, Revise DLP, Delete DLP)
     3. Mark the request as **Done**.
-2. Draft an ORL Update email blast for the DLP update.
+2. Draft an ORL Update email blast for the DLP update.  
 **Note:** DLP updates are sent on Mondays in the Update email template. If the DLP is being completed and closed out on a day other than Monday, start a draft email template and enter the relevant information.
