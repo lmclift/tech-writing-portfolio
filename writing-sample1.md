@@ -1,6 +1,6 @@
 # Sample 1: DLP Development Process Overview
 ## Summary
-The customer needed documentation outlining the process of how a Desk Level Procedure (DLP) was developed and moved through the review, approval, and publication process. This document would be used as a quick reference for new technical writers, business analysts, and other internal stakeholders who were not familiar with the DLP development process.
+The customer needed a short document that outlined the broad overview of how a Desk Level Procedure (DLP) was developed and moved through the review, approval, and publication process. This document would be used as a quick reference for new technical writers, business analysts, and other internal stakeholders who were not familiar with the DLP development process.
 ## DLP Development Quick Reference Guide
 ### When a New Request is Submitted in Jira
 1. Navigate to the Project.
