@@ -12,12 +12,8 @@ A verbal pre-authorization must be provided when the member needs to use an out-
 3. Complete the Call Form:
     1. **Contact Tab:** Set the subject as Emergency Pre-Auth.
     2. **Details Tab:** Complete the tab as you would a regular call.	
-    3. **Remarks Tab:** Enter the treating dentist name and office address.
-    4. **Authorize code 1234 for specialty.** No dollar amount is required. It will look like the following:
-    | Procedure Code | 1234 |
-    | --- | --- |
-    | Tooth: | N/A |
-    | Copay: | N/A |
-    | Fee: | N/A |
-    5. **Resolution Tab:** Check the box beside **Complete Call Form**.
+    3. **Remarks Tab:** Enter the following information into the text box:
+        1. Treating dentist name and office address.
+        2. Authorization code 1234.
+    4. **Resolution Tab:** Check the box beside **Complete Call Form**.
 4. Route the Call Form to the appropriate work queue.
