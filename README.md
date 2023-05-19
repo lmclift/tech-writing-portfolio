@@ -7,5 +7,5 @@ Summary: The customer needed documentation outlining the process of how a Desk L
 &nbsp;
 2. [**Sample 2:** Desk Level Procedure](writing-sample2.md)
 Summary: The following document is an example of a desk level procedure (DLP). The customer needed a document that outlined how a call center agent should resolve and document a call from a member seeking insurance coverage for emergency care.
-3. **Sample 3:** School Board Policy  
+3. [**Sample 3:** School Board Policy](writing-sample3.md)
 Summary: The following writing sample is an example of a school board policy that describes the school entity’s requirements relating to booster organizations. The school board needed a policy outlining the rules and expectations regarding the establishment and operation of booster organizations. Since there are currently no regulations at the state or federal level relating to this type of organization, this policy was developed by primarily working with individuals from the district to determine their needs relating to the governance of this type of organization.
