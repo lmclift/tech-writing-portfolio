@@ -1,6 +1,13 @@
 # Sample 2: Desk Level Procedure
 ## Summary
-The customer needed a document that outlined how a call center agent should resolve and document a call from a member seeking insurance coverage for emergency care. To develop this desk level procedure, I met with and interviewed the subject matter experts who were responsible for developing the process. I drafted the document based on their input. The end result of the project was that call center agents were able to correctly document and process verbal authorizations for members over the phone.
+**Business Requirements:** The customer needed a document that outlined how a call center agent should resolve and document a call from a member seeking insurance coverage for emergency care. 
+
+**Target Audience:** This document was developed to be used by the organization's call center agents.
+
+**Writing Process:** To develop this desk level procedure, I met with and interviewed the subject matter experts who were responsible for developing the process. I drafted the document based on their input. The end result of the project was that call center agents were able to correctly document and process verbal authorizations for members over the phone. Note that this document has been significantly revised to remove any proprietary information.
+
+---
+
 ## Out of Network Emergency Benefits
 ### Overview
 The purpose of this DLP is to document the verbal authorization process for approving coverage for emergency benefits when there are no in-network specialists within a 35-mile radius of the member.
